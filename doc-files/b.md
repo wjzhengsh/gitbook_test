@@ -1,3 +1,3 @@
-# This is Shanghai
+# Beautiful scene
 
-![Shanghai scene](Images/test.png)
+![Buildings](Images/test.png)
